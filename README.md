@@ -1,4 +1,4 @@
-# Student Performance Prediction — Education Analytics
+ # Student Performance Prediction — Education Analytics
 
 ## What is included
 - `models/student_performance_model.pkl` — trained Random Forest/Decision Tree pipeline selected by F1 score.
