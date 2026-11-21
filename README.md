@@ -1,4 +1,4 @@
- # Student Performance Prediction — Education Analytics
+ # Student Performance Prediction — Education Analyist
 
  ## Live Website :
  https://student-performance-predictor-technexus.streamlit.app/
